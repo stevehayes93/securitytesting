@@ -1,0 +1,3 @@
+Test Credentials for secret scanning test
+UserName=Administrator
+Password=ChangeMe
